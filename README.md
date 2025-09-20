@@ -43,7 +43,7 @@ During processing:
 ## 📥 Download
 
 You can download the dataset here:\
-👉 [CompSpoof Download Link](https://xuepingzhang.github.io/CompSpoof-dataset/)
+👉 [CompSpoof Download Link](https://huggingface.co/datasets/XuepingZhang/CompSpoof)
 
 ***
 
