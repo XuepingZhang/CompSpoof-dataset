@@ -55,7 +55,7 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Original Speech (bona fide)**
  
   <audio controls>
-    <source src="audio_demo/class0/bonafide_0_259.mp3" type="audio/wav">
+    <source src="audio_demo/class0/bonafide_0_259.mp3" type="audio/mpeg">
   </audio>
 ---
 
@@ -72,13 +72,13 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Speech (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class1/T_0000155380.flac" type="audio/wav">
+    <source src="audio_demo/class1/T_0000155380.flac" type="audio/flac">
   </audio>
   
 - **Environment (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class1/-8S9TKWIOSc_30.mp3" type="audio/wav">
+    <source src="audio_demo/class1/-8S9TKWIOSc_30.mp3" type="audio/mpeg">
   </audio>
 
 ---
@@ -89,20 +89,20 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 
 - **Mixed**
   
-- <audio controls>
+  <audio controls>
     <source src="audio_demo/class2/spoof_bonafide_0296.wav" type="audio/wav">
   </audio>
   
 - **Speech (spoofed)**
   
   <audio controls>
-    <source src="audio_demo/class2/T_0000087396.flac" type="audio/wav">
+    <source src="audio_demo/class2/T_0000087396.flac" type="audio/flac">
   </audio>
   
 - **Environment (bona fide)**
   
   <audio controls>
-    <source src="audio_demo/class2/-UjHThfWx_o_30.mp3" type="audio/wav">
+    <source src="audio_demo/class2/-UjHThfWx_o_30.mp3" type="audio/mpeg">
   </audio>
 
 ---
@@ -120,7 +120,7 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Speech (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class3/T_0000156775.flac" type="audio/wav">
+    <source src="audio_demo/class3/T_0000156775.flac" type="audio/flac">
   </audio>
   
 - **Environment (spoofed)**
@@ -144,7 +144,7 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Speech (spoofed)**
   
   <audio controls>
-    <source src="audio_demo/class4/T_0000142036.flac" type="audio/wav">
+    <source src="audio_demo/class4/T_0000142036.flac" type="audio/flac">
   </audio>
   
 - **Environment (spoofed)**
