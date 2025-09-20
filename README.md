@@ -40,6 +40,119 @@ During processing:
 
 ***
 
+
+## 🎧 Audio Examples
+
+Below are audio samples from the **CompSpoof** dataset.  
+For each class, we provide the **mixed audio** (if applicable), along with the **speech** and **environment** sources.  
+
+---
+
+### Class 0 — Original
+**Label:** `original`  
+**Description:** Original bona fide speech and corresponding environment audio without mixing  
+
+- **Original Speech (bona fide)**
+ 
+  <audio controls>
+    <source src="audio_demo/class0/bonafide_0_259.mp3" type="audio/wav">
+  </audio>
+---
+
+### Class 1 — Bona fide + Bona fide
+**Label:** `bonafide_bonafide`  
+**Description:** Bona fide speech mixed with another bona fide environmental audio  
+
+- **Mixed**
+
+  <audio controls>
+    <source src="audio_demo/class1/bonafide_bonafide_0203.wav" type="audio/wav">
+  </audio>
+  
+- **Speech (bona fide)**
+
+  <audio controls>
+    <source src="audio_demo/class1/T_0000155380.flac" type="audio/wav">
+  </audio>
+  
+- **Environment (bona fide)**
+
+  <audio controls>
+    <source src="audio_demo/class1/-8S9TKWIOSc_30.mp3" type="audio/wav">
+  </audio>
+
+---
+
+### Class 2 — Spoofed Speech + Bona fide Environment
+**Label:** `spoof_bonafide`  
+**Description:** Spoof speech mixed with bona fide environmental audio  
+
+- **Mixed**
+  
+- <audio controls>
+    <source src="audio_demo/class2/spoof_bonafide_0296.wav" type="audio/wav">
+  </audio>
+  
+- **Speech (spoofed)**
+  
+  <audio controls>
+    <source src="audio_demo/class2/T_0000087396.flac" type="audio/wav">
+  </audio>
+  
+- **Environment (bona fide)**
+  
+  <audio controls>
+    <source src="audio_demo/class2/-UjHThfWx_o_30.mp3" type="audio/wav">
+  </audio>
+
+---
+
+### Class 3 — Bona fide Speech + Spoofed Environment
+**Label:** `bonafide_spoof`  
+**Description:** Bona fide speech mixed with spoof environmental audio  
+
+- **Mixed**
+
+  <audio controls>
+    <source src="audio_demo/class3/bonafide_spoof_0096.wav" type="audio/wav">
+  </audio>
+
+- **Speech (bona fide)**
+
+  <audio controls>
+    <source src="audio_demo/class3/T_0000156775.flac" type="audio/wav">
+  </audio>
+  
+- **Environment (spoofed)**
+ 
+  <audio controls>
+    <source src="audio_demo/class3/IvUXQLAqHz4_000971.wav" type="audio/wav">
+  </audio>
+
+---
+
+### Class 4 — Spoofed Speech + Spoofed Environment
+**Label:** `spoof_spoof`  
+**Description:** Spoof speech mixed with spoof environmental audio  
+
+- **Mixed**
+ 
+  <audio controls>
+    <source src="audio_demo/class4/spoof_spoof_0060.wav" type="audio/wav">
+  </audio>
+  
+- **Speech (spoofed)**
+  
+  <audio controls>
+    <source src="audio_demo/class4/T_0000142036.flac" type="audio/wav">
+  </audio>
+  
+- **Environment (spoofed)**
+
+  <audio controls>
+    <source src="audio_demo/class4/nUs5SJyQPnM_000350.wav" type="audio/wav">
+  </audio>
+
 ## 📥 Download
 
 You can download the dataset here:\
