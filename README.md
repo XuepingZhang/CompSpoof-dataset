@@ -3,6 +3,7 @@
 The **CompSpoof dataset** is designed for studying **component-level anti-spoofing**, where either the **speech** or the **environmental sound component** (or both) may be spoofed.
 
 📄 [Paper on arXiv](https://arxiv.org/abs/2509.15804)
+
 ***
 
 ## 📂 Dataset Overview
