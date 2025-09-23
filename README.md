@@ -2,6 +2,7 @@
 
 The **CompSpoof dataset** is designed for studying **component-level anti-spoofing**, where either the **speech** or the **environmental sound component** (or both) may be spoofed.
 
+📄 [Paper on arXiv](https://arxiv.org/abs/2509.15804)
 ***
 
 ## 📂 Dataset Overview
@@ -22,6 +23,16 @@ The **CompSpoof dataset** is designed for studying **component-level anti-spoofi
 
 ***
 
+## 🗂️ Metadata
+The dataset includes three metadata files: `CompSpoof_train.txt`, `CompSpoof_dev.txt`, and `CompSpoof_eval.txt`.
+
+Each line has four fields:
+
+```
+mixed_audio   speech_source   env_source   class_label
+```
+
+
 ## 🎧 Data Sources
 
 *   **Bona fide speech:** ASVspoof5, CommonVoice
@@ -39,7 +50,6 @@ During processing:
 *   Environmental sound is scaled to a **predefined SNR** relative to the speech.
 
 ***
-
 
 ## 🎧 Audio Examples
 
