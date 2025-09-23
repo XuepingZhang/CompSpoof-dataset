@@ -165,5 +165,14 @@ You can download the dataset here:\
 If you use this dataset in your research, please cite:
 
 ```
+@misc{zhang2025compspoofdatasetjointlearning,
+      title={CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures}, 
+      author={Xueping Zhang and Liwei Jin and Yechen Wang and Linxi Li and Ming Li},
+      year={2025},
+      eprint={2509.15804},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2509.15804}, 
+}
 ```
 
