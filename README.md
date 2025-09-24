@@ -9,7 +9,7 @@ The **CompSpoof dataset** is designed for studying **component-level anti-spoofi
 ## 📥 Download
 
 You can download the dataset on hugging face:\
-🤗[CompSpoof Download Link](https://huggingface.co/datasets/XuepingZhang/CompSpoof)
+🤗 [CompSpoof Download Link](https://huggingface.co/datasets/XuepingZhang/CompSpoof)
 
 ***
 
