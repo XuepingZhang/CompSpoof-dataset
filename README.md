@@ -212,7 +212,7 @@ Below are audio samples from the **CompSpoof** dataset. For each class, we provi
       </td>
       <td>
       <audio controls>
-          <source src="audio_demo/class4/spoof_spoof_0439.wav" type="audio/mpeg">
+          <source src="audio_demo/class4/T_0000141802.flac" type="audio/mpeg">
         </audio>
       </td>
       <td>
