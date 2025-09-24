@@ -55,116 +55,174 @@ During processing:
 ***
 
 ## 🎧 Audio Examples
+Below are audio samples from the **CompSpoof** dataset. For each class, we provide the **mixed audio** (if applicable), along with the **speech** and **environment** sources. 
 
-Below are audio samples from the **CompSpoof** dataset.  
-For each class, we provide the **mixed audio** (if applicable), along with the **speech** and **environment** sources.  
+--- 
 
----
+### Class 0 — Original 
 
-### Class 0 — Original
-**Label:** `original`  
-**Description:** Original bona fide speech and corresponding environment audio without mixing  
+**Label:** original 
 
-- **Original Speech (bona fide)**
- 
-  <audio controls>
-    <source src="audio_demo/class0/bonafide_0_028.mp3" type="audio/mpeg">
-  </audio>
----
+**Description:** Original bona fide speech and corresponding environment audio without mixing
 
-### Class 1 — Bona fide + Bona fide
-**Label:** `bonafide_bonafide`  
-**Description:** Bona fide speech mixed with another bona fide environmental audio  
+<table>
+  <thead>
+    <tr>
+      <th>Original</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="audio_demo/class0/bonafide_0_028.mp3" type="audio/mpeg">
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **Mixed**
+### Class 1 — Bona fide + Bona fide 
 
-  <audio controls>
-    <source src="audio_demo/class1/bonafide_bonafide_0471.wav" type="audio/wav">
-  </audio>
-  
-- **Speech (bona fide)**
+**Label:** bonafide_bonafide 
 
-  <audio controls>
-    <source src="audio_demo/class1/D_0002500345.flac" type="audio/flac">
-  </audio>
-  
-- **Environment (bona fide)**
+**Description:** Bona fide speech mixed with another bona fide environmental audio
 
-  <audio controls>
-    <source src="audio_demo/class1/-OQ3KFwzLCI_474.mp3" type="audio/mpeg">
-  </audio>
+<table>
+  <thead>
+    <tr>
+      <th>Mixed</th>
+      <th>Speech</th>
+      <th>Environment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="audio_demo/class1/bonafide_bonafide_0471.wav" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class1/D_0002500345.flac" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class1/-OQ3KFwzLCI_474.mp3" type="audio/mpeg">
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
 
-### Class 2 — Spoofed Speech + Bona fide Environment
-**Label:** `spoof_bonafide`  
-**Description:** Spoof speech mixed with bona fide environmental audio  
+### Class 2 — Spoofed Speech + Bona fide Environment 
 
-- **Mixed**
-  
-  <audio controls>
-    <source src="audio_demo/class2/spoof_bonafide_0099.wav" type="audio/wav">
-  </audio>
-  
-- **Speech (spoofed)**
-  
-  <audio controls>
-    <source src="audio_demo/class2/T_0000011037.flac" type="audio/flac">
-  </audio>
-  
-- **Environment (bona fide)**
-  
-  <audio controls>
-    <source src="audio_demo/class2/-LGTb-xyjzA_11.mp3" type="audio/mpeg">
-  </audio>
+**Label:** spoof_bonafide 
 
----
+**Description:** Spoof speech mixed with bona fide environmental audio
+<table>
+  <thead>
+    <tr>
+      <th>Mixed</th>
+      <th>Speech</th>
+      <th>Environment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="audio_demo/class2/spoof_bonafide_0099.wav" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class2/T_0000011037.flac" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class2/-LGTb-xyjzA_11.mp3" type="audio/mpeg">
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Class 3 — Bona fide Speech + Spoofed Environment
-**Label:** `bonafide_spoof`  
-**Description:** Bona fide speech mixed with spoof environmental audio  
 
-- **Mixed**
+### Class 3 — Bona fide Speech + Spoofed Environment 
 
-  <audio controls>
-    <source src="audio_demo/class3/bonafide_spoof_0248.wav" type="audio/wav">
-  </audio>
+**Label:** bonafide_spoof 
 
-- **Speech (bona fide)**
+**Description:** Bona fide speech mixed with spoof environmental audio
 
-  <audio controls>
-    <source src="audio_demo/class3/D_0001820722.flac" type="audio/flac">
-  </audio>
-  
-- **Environment (spoofed)**
- 
-  <audio controls>
-    <source src="audio_demo/class3/ViP3M-Hlm18_000030.wav" type="audio/wav">
-  </audio>
+<table>
+  <thead>
+    <tr>
+      <th>Mixed</th>
+      <th>Speech</th>
+      <th>Environment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="audio_demo/class3/bonafide_spoof_0248.wav" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class3/D_0001820722.flac" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class3/ViP3M-Hlm18_000030.wav" type="audio/mpeg">
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
 
-### Class 4 — Spoofed Speech + Spoofed Environment
-**Label:** `spoof_spoof`  
-**Description:** Spoof speech mixed with spoof environmental audio  
+### Class 4 — Spoofed Speech + Spoofed Environment 
 
-- **Mixed**
- 
-  <audio controls>
-    <source src="audio_demo/class4/spoof_spoof_0439.wav" type="audio/wav">
-  </audio>
-  
-- **Speech (spoofed)**
-  
-  <audio controls>
-    <source src="audio_demo/class4/T_0000141802.flac" type="audio/flac">
-  </audio>
-  
-- **Environment (spoofed)**
+**Label:** spoof_spoof 
 
-  <audio controls>
-    <source src="audio_demo/class4/f_8Jnw9bU64_000008.wav" type="audio/wav">
-  </audio>
+**Description:** Spoof speech mixed with spoof environmental audio
+
+<table>
+  <thead>
+    <tr>
+      <th>Mixed</th>
+      <th>Speech</th>
+      <th>Environment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <audio controls>
+          <source src="audio_demo/class4/spoof_spoof_0439.wav" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class4/spoof_spoof_0439.wav" type="audio/mpeg">
+        </audio>
+      </td>
+      <td>
+      <audio controls>
+          <source src="audio_demo/class4/f_8Jnw9bU64_000008.wav" type="audio/mpeg">
+        </audio>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📥 Download
 
