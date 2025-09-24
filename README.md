@@ -3,6 +3,7 @@
 The **CompSpoof dataset** is designed for studying **component-level anti-spoofing**, where either the **speech** or the **environmental sound component** (or both) may be spoofed.
 
 📄 [Paper on arXiv](https://arxiv.org/abs/2509.15804)
+
 🖥️ [Code on github](https://github.com/XuepingZhang/CompSpoof)
 
 ***
@@ -67,7 +68,7 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Original Speech (bona fide)**
  
   <audio controls>
-    <source src="audio_demo/class0/bonafide_0_259.mp3" type="audio/mpeg">
+    <source src="audio_demo/class0/bonafide_0_028.mp3" type="audio/mpeg">
   </audio>
 ---
 
@@ -78,19 +79,19 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Mixed**
 
   <audio controls>
-    <source src="audio_demo/class1/bonafide_bonafide_0203.wav" type="audio/wav">
+    <source src="audio_demo/class1/bonafide_bonafide_0471.wav" type="audio/wav">
   </audio>
   
 - **Speech (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class1/T_0000155380.flac" type="audio/flac">
+    <source src="audio_demo/class1/D_0002500345.flac" type="audio/flac">
   </audio>
   
 - **Environment (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class1/-8S9TKWIOSc_30.mp3" type="audio/mpeg">
+    <source src="audio_demo/class1/-OQ3KFwzLCI_474.mp3" type="audio/mpeg">
   </audio>
 
 ---
@@ -102,7 +103,7 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Mixed**
   
   <audio controls>
-    <source src="audio_demo/class2/spoof_bonafide_0296.wav" type="audio/wav">
+    <source src="audio_demo/class2/spoof_bonafide_0.wav" type="audio/wav">
   </audio>
   
 - **Speech (spoofed)**
@@ -126,19 +127,19 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Mixed**
 
   <audio controls>
-    <source src="audio_demo/class3/bonafide_spoof_0096.wav" type="audio/wav">
+    <source src="audio_demo/class3/bonafide_spoof_0248.wav" type="audio/wav">
   </audio>
 
 - **Speech (bona fide)**
 
   <audio controls>
-    <source src="audio_demo/class3/T_0000156775.flac" type="audio/flac">
+    <source src="audio_demo/class3/D_0001820722.flac" type="audio/flac">
   </audio>
   
 - **Environment (spoofed)**
  
   <audio controls>
-    <source src="audio_demo/class3/IvUXQLAqHz4_000971.wav" type="audio/wav">
+    <source src="audio_demo/class3/ViP3M-Hlm18_000030.wav" type="audio/wav">
   </audio>
 
 ---
@@ -150,19 +151,19 @@ For each class, we provide the **mixed audio** (if applicable), along with the *
 - **Mixed**
  
   <audio controls>
-    <source src="audio_demo/class4/spoof_spoof_0060.wav" type="audio/wav">
+    <source src="audio_demo/class4/spoof_spoof_0439.wav" type="audio/wav">
   </audio>
   
 - **Speech (spoofed)**
   
   <audio controls>
-    <source src="audio_demo/class4/T_0000142036.flac" type="audio/flac">
+    <source src="audio_demo/class4/T_0000141802.flac" type="audio/flac">
   </audio>
   
 - **Environment (spoofed)**
 
   <audio controls>
-    <source src="audio_demo/class4/nUs5SJyQPnM_000350.wav" type="audio/wav">
+    <source src="audio_demo/class4/f_8Jnw9bU64_000008.wavß" type="audio/wav">
   </audio>
 
 ## 📥 Download
