@@ -250,3 +250,14 @@ If you use this dataset in your research, please cite:
 }
 ```
 
+## License
+  This dataset is a derived dataset constructed by combining and mixing audio samples from multiple publicly available datasets.
+  - The **SSTC** dataset and the **VCapAV** dataset are released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license.
+  - The **VGGSound** dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+  - The **Common Voice** dataset is released under the Creative Commons [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license.
+  - The **ASVspoof 5** dataset is released under the [ODC-By](https://huggingface.co/datasets/jungjee/asvspoof5/blob/main/LICENSE.txt) License.
+  
+  Users must comply with the license terms of each original dataset.
+  The authors do **not** claim ownership of the original audio content.
+  Due to the inclusion of datasets licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license, **this dataset is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license**.
+
