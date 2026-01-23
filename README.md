@@ -6,6 +6,16 @@ The **CompSpoof dataset** is designed for studying **component-level anti-spoofi
 
 🖥️ [Code on github](https://github.com/XuepingZhang/CompSpoof)
 
+
+## 📢 NEWS!!
+We expanded CompSpoof dataset to CompSpoofV2, which significantly expands the diversity of attack sources, environmental sounds, and mixing strategies. ✨ In addition, newly generated audio samples are distributed across the test set and are specifically designed to serve as detection data under unseen conditions.
+
+🤗 CompSpoofV2 Details & Download Link: https://xuepingzhang.github.io/CompSpoof-V2-Dataset/
+
+Building upon CompSpoofV2 dataset and separation-enhanced joint learning framework, we lunched the **ICME 2026 Environment-Aware Speech and Sound Deepfake Detection Challenge (ESDD2)**. We warmly invite researchers from both academia and industry to participate in this challenge, exploring robust and effective solutions for these critical deepfake detection tasks.
+
+🖥️ ESDD2 Challenge website: https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description
+
 ## 📥 Download
 
 You can download the dataset on hugging face:\
