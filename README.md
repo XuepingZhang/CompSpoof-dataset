@@ -261,7 +261,7 @@ If you use this dataset in your research, please cite:
 ```
 
 ## License
-  This dataset is a derived dataset constructed by combining and mixing audio samples from multiple publicly available datasets.
+  The part of this dataset is a derived dataset constructed by combining and mixing audio samples from multiple publicly available datasets.
   - The **SSTC** dataset and the **VCapAV** dataset are released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license.
   - The **VGGSound** dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
   - The **Common Voice** dataset is released under the Creative Commons [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license.
