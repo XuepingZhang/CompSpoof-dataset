@@ -271,3 +271,9 @@ If you use this dataset in your research, please cite:
   The authors do **not** claim ownership of the original audio content.
   Due to the inclusion of datasets licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license, **this dataset is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license**.
 
+、、、
+
+## ✉️ Contact Information
+
+For questions, issues, or collaboration inquiries, please contact:
+* Email: [xueping.zhang@eurecom.fr](xueping.zhang@eurecom.fr)
